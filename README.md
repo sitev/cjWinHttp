@@ -1,0 +1,2 @@
+# cjWinHttp
+Wrapper for WinHTTP
